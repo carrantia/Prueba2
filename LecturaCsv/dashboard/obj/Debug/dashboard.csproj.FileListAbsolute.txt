@@ -1,0 +1,11 @@
+C:\Users\isma\source\repos\LecturaCsv\dashboard\obj\Debug\dashboard.csprojAssemblyReference.cache
+C:\Users\isma\source\repos\LecturaCsv\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\isma\source\repos\LecturaCsv\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\isma\source\repos\LecturaCsv\dashboard\obj\Debug\dashboard.UserControl1.resources
+C:\Users\isma\source\repos\LecturaCsv\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\isma\source\repos\LecturaCsv\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\isma\source\repos\LecturaCsv\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\isma\source\repos\LecturaCsv\dashboard\bin\Debug\dashboard.exe
+C:\Users\isma\source\repos\LecturaCsv\dashboard\bin\Debug\dashboard.pdb
+C:\Users\isma\source\repos\LecturaCsv\dashboard\obj\Debug\dashboard.exe
+C:\Users\isma\source\repos\LecturaCsv\dashboard\obj\Debug\dashboard.pdb

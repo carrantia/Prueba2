@@ -1,0 +1,13 @@
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\bin\Debug\netcoreapp3.1\LecturaCsv.exe
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\bin\Debug\netcoreapp3.1\LecturaCsv.deps.json
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\bin\Debug\netcoreapp3.1\LecturaCsv.runtimeconfig.json
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\bin\Debug\netcoreapp3.1\LecturaCsv.runtimeconfig.dev.json
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\bin\Debug\netcoreapp3.1\LecturaCsv.dll
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\bin\Debug\netcoreapp3.1\LecturaCsv.pdb
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\obj\Debug\netcoreapp3.1\LecturaCsv.csprojAssemblyReference.cache
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\obj\Debug\netcoreapp3.1\LecturaCsv.AssemblyInfoInputs.cache
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\obj\Debug\netcoreapp3.1\LecturaCsv.AssemblyInfo.cs
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\obj\Debug\netcoreapp3.1\LecturaCsv.csproj.CoreCompileInputs.cache
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\obj\Debug\netcoreapp3.1\LecturaCsv.dll
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\obj\Debug\netcoreapp3.1\LecturaCsv.pdb
+C:\Users\isma\source\repos\LecturaCsv\LecturaCsv\obj\Debug\netcoreapp3.1\LecturaCsv.genruntimeconfig.cache

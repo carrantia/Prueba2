@@ -1,0 +1,8 @@
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Release\menu.csprojAssemblyReference.cache
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Release\menu.Form1.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Release\menu.Properties.Resources.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Release\menu.UserControl1.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Release\menu.UserControl2.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Release\menu.UserControl3.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Release\menu.csproj.GenerateResource.cache
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Release\menu.csproj.CoreCompileInputs.cache

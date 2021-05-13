@@ -1,0 +1,13 @@
+C:\Users\isma\source\repos\LecturaCsv\menu\bin\Debug\menu.exe.config
+C:\Users\isma\source\repos\LecturaCsv\menu\bin\Debug\menu.exe
+C:\Users\isma\source\repos\LecturaCsv\menu\bin\Debug\menu.pdb
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.csprojAssemblyReference.cache
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.Form1.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.UserControl1.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.UserControl2.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.UserControl3.resources
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.exe
+C:\Users\isma\source\repos\LecturaCsv\menu\obj\Debug\menu.pdb

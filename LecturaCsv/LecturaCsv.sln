@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LecturaCsv", "LecturaCsv\LecturaCsv.csproj", "{0C41C4E2-F127-4CC3-856C-5F6F6FC3C238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menu", "menu\menu.csproj", "{542B557B-6CB9-49D9-909F-3CA865B1340A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{AF04D0BE-AFBC-41AF-9EBC-3CD63D71735B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{15627A47-1D3D-4276-A541-6C921CB273F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{CFE961B4-7DCF-400B-9BC6-F6F40384BA7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BD", "BD", "{E126C166-6150-40E0-8DFB-EE90346DBEF6}"
+	ProjectSection(SolutionItems) = preProject
+		BD\1_datos_comerciales.csv = BD\1_datos_comerciales.csv
+		BD\2_facturacion_comercial.csv = BD\2_facturacion_comercial.csv
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{370360D0-9BDA-45A4-8621-45EC9B43014E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C41C4E2-F127-4CC3-856C-5F6F6FC3C238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C41C4E2-F127-4CC3-856C-5F6F6FC3C238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C41C4E2-F127-4CC3-856C-5F6F6FC3C238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C41C4E2-F127-4CC3-856C-5F6F6FC3C238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542B557B-6CB9-49D9-909F-3CA865B1340A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{542B557B-6CB9-49D9-909F-3CA865B1340A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{542B557B-6CB9-49D9-909F-3CA865B1340A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542B557B-6CB9-49D9-909F-3CA865B1340A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370360D0-9BDA-45A4-8621-45EC9B43014E}.Debug|Any CPU.ActiveCfg = Debug
+		{370360D0-9BDA-45A4-8621-45EC9B43014E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0C41C4E2-F127-4CC3-856C-5F6F6FC3C238} = {CFE961B4-7DCF-400B-9BC6-F6F40384BA7D}
+		{542B557B-6CB9-49D9-909F-3CA865B1340A} = {AF04D0BE-AFBC-41AF-9EBC-3CD63D71735B}
+		{E126C166-6150-40E0-8DFB-EE90346DBEF6} = {CFE961B4-7DCF-400B-9BC6-F6F40384BA7D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {728126C1-D2E3-48DE-BC93-179631D43661}
+	EndGlobalSection
+EndGlobal
